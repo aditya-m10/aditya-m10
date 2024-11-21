@@ -20,7 +20,7 @@
   <img align="left" title="Django" alt="Django" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVymA4eo7ZV4srkU4L8gQPilwltA048UMzg&usqp=CAU" />
 </a>
 <a href="https://www.python.org" target="_blank">
-  <img align="left" title="Typescript" alt="Python" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+  <img align="left" title="Python" alt="Python" width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 </a>
 <a href="https://www.typescriptlang.org" target="_blank">
  <img align="left" title="Typescript" alt="Typescript" width="60px" src="https://prometteursolutions.com/images/services/typescript.png" />
