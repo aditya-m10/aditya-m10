@@ -3,7 +3,6 @@
 ### Hi there 👋 I am Aditya Maurya 
 
 - 🔭 I’m currently busy in exploring the vast universe of the Web Development
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aditya-maurya-b08620155/)
 
 ## I code with
 
